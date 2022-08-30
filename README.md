@@ -14,7 +14,7 @@ Then dump datasets using `pickle.dump()`.
 Model is trained by ConvNet.
 
 ## Results
-There are two kinds of prediction.\
+There are two kinds of prediction.
 1. Only categorized into uncomfortable(1, 2, 3) and comfortable(4, 5) two classes. Test accuracy=0.7 .
 2. Keep the prediction as a number between 1~5, test mean absolute error=0.86 .
 
